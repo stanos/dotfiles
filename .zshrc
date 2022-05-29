@@ -1,0 +1,1 @@
+/Users/stanos/.dotfiles/.zshrc
